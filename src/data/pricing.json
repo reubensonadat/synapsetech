@@ -1,0 +1,57 @@
+{
+  "content": {
+    "basic": {
+      "title": "Basic",
+      "priceMin": 600,
+      "priceMax": 800,
+      "features": [
+        "1 short video (≤30s)",
+        "3–4 brand/product photos",
+        "Simple captions",
+        "Basic editing (music, transitions, logo overlay)",
+        "1-hour shoot",
+        "Delivery: 3–4 days"
+      ]
+    },
+    "standard": {
+      "title": "Standard",
+      "priceMin": 1200,
+      "priceMax": 1500,
+      "features": [
+        "3 short videos",
+        "6–8 professional photos",
+        "Concept planning & basic scripts",
+        "1–2 locations",
+        "Moderate editing",
+        "1 revision",
+        "Delivery: 5–7 days"
+      ]
+    },
+    "premium": {
+      "title": "Premium",
+      "priceMin": 2800,
+      "priceMax": 3200,
+      "features": [
+        "5 creative videos",
+        "10+ brand photos",
+        "Full strategy session",
+        "Multiple setups/locations",
+        "Cinematic editing & subtitles",
+        "2 revisions",
+        "Delivery: 7–10 days"
+      ]
+    },
+    "graphicDesignPerUnit": 100,
+    "pptNote": "PowerPoint presentations and Website Maintenance are quote-based. Contact us with details for a custom quote.",
+    "bundleDiscounts": {
+      "basicBundleDiscount": 100,
+      "standardBundleDiscount": 200,
+      "premiumBundleDiscount": 300
+    }
+  },
+  "website": {
+    "basic": { "priceMin": 600, "priceMax": 1500 },
+    "standard": { "priceMin": 1500, "priceMax": 5000 },
+    "premium": { "priceMin": 5000, "priceMax": 99999 }
+  }
+}

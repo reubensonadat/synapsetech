@@ -1,0 +1,8 @@
+{
+  "headerNav": ["Home", "About", "Services", "Portfolio", "Pricing", "Contact"],
+  "footer": {
+    "quickLinks": ["Home", "About Us", "Services", "Portfolio", "Contact"],
+    "newsletterText": "Subscribe for updates on web design trends",
+    "copyright": "© 2025 Synap Tech. All rights reserved."
+  }
+}

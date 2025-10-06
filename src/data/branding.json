@@ -1,0 +1,14 @@
+{
+  "logo": "/assets/logo.png",
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#0f172a",
+    "accent": "#ffffff",
+    "black": "#000000"
+  },
+  "fonts": {
+    "heading": "Poppins, sans-serif",
+    "body": "Inter, sans-serif"
+  }
+}

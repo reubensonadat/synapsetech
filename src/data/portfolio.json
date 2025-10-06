@@ -1,0 +1,28 @@
+{
+  "filters": ["All", "Website", "Content Creation", "Graphic Design", "PowerPoint", "Maintenance"],
+  "itemsPerPage": 6,
+  "items": [
+    {
+      "id": "resto-001",
+      "title": "Restaurant Website",
+      "subtitle": "Modern website with online menu & reservation",
+      "description": "A stunning restaurant website featuring online menu browsing, reservation system, and food ordering capabilities. Built with responsive design to ensure perfect viewing on all devices.",
+      "details": "This restaurant website project included a custom reservation system, interactive menu with filtering options, photo gallery of dishes, and integration with payment gateways for online ordering. The design emphasizes visual appeal with high-quality food photography and an elegant color scheme that matches the restaurant's brand.",
+      "tech": ["HTML/CSS", "JavaScript", "Responsive", "Reservation System", "Payment Integration"],
+      "image": "/assets/portfolio/restaurant.png",
+      "link": "https://example-restaurant.com",
+      "category": "Website"
+    },
+    {
+      "id": "biz-001",
+      "title": "Business Website",
+      "subtitle": "Consulting site with lead-generation forms",
+      "description": "Professional consulting website designed to generate leads and showcase services. Features include contact forms, service descriptions, and client testimonials.",
+      "details": "A comprehensive business website for a consulting firm that includes custom contact forms with lead tracking, service showcase sections, client testimonials carousel, team member profiles, and integrated analytics for monitoring visitor behavior and conversion rates.",
+      "tech": ["Corporate Design", "Lead Generation", "Analytics", "SEO Optimization", "Contact Forms"],
+      "image": "/assets/portfolio/business.png",
+      "link": "https://example-business.com",
+      "category": "Website"
+    }
+  ]
+}

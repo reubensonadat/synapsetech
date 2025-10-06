@@ -1,0 +1,37 @@
+[
+  {
+    "id": "webdev",
+    "title": "Website Development",
+    "short": "Custom websites built with modern technologies to ensure fast loading, responsive design, and excellent user experience.",
+    "details": "We build fast, responsive websites that help businesses convert visitors into customers. Packages range from single-page brochure sites to full e-commerce platforms.",
+    "icon": "globe"
+  },
+  {
+    "id": "content",
+    "title": "Content Creation",
+    "short": "Short-form video, brand photography, and social assets for businesses to grow their online presence (brand-focused, not influencer content).",
+    "details": "Brand-focused content: product shots, short promos, testimonial clips, and social banners that match your website and branding.",
+    "icon": "pen-tool"
+  },
+  {
+    "id": "design",
+    "title": "Graphic Design",
+    "short": "Brand graphics, banners, and promotional assets (GH₵100 per design).",
+    "details": "One-off graphics: logos, banners, social posts, ad creatives. For bulk or custom work we provide a quote.",
+    "icon": "palette"
+  },
+  {
+    "id": "ppt",
+    "title": "PowerPoint Presentations",
+    "short": "High-quality branded pitch decks and presentations (quote-based).",
+    "details": "Slide design depends on count and style. Provide your brief and we deliver a custom quote.",
+    "icon": "presentation"
+  },
+  {
+    "id": "maintenance",
+    "title": "Website Maintenance",
+    "short": "Updates, security checks and performance optimizations (quote-based).",
+    "details": "Maintenance pricing depends on site size and complexity; contact us for a tailored package.",
+    "icon": "settings"
+  }
+]
