@@ -1,3 +1,5 @@
+'use client';
+
 import { Button } from '@/components/ui/button';
 import { Shield, Eye, Lock } from 'lucide-react';
 import contactData from '@/data/contact.json';
